@@ -1,6 +1,6 @@
 Ejercicio de BBVA
 
-El zip con nombre: proyecto BBVA es la idea presentada el equipo y la logica a seguir
+El zip con nombre: proyecto BBVA es la idea presentada el equipo y la logica de programacion a seguir
 
 En la carpeta BBVA contiene el archivo de backend programado en python
 
