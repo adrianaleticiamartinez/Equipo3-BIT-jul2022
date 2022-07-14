@@ -25,7 +25,6 @@ def ofuscar(palabra):
     return textoofuscado;
 
 
-print(ofuscar("Martinez"))
 
 
 usuario_1 = "manager" usuario_2 = "validador" usuario_3 = "restringido"
